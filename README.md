@@ -297,7 +297,7 @@ This project demonstrates
 
 ## **Dr. K. Natarajan**
 
-Assistant Professor | Research Scholar | AI | Data Analytics | Electric Vehicle Technologies | Software Development
+Professor | R & D Engineer | AI | Data Analytics | Electric Vehicle Technologies | Software Development
 
 ### GitHub
 
